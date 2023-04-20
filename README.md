@@ -1,4 +1,4 @@
-![logo](https://github.com/sbharuka01/Portfolio/blob/main/banner.png)
+![logo](https://github.com/sbharuka01/Portfolio/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Bharuka</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align= "center" alt = "Coding" width="800" src= "https://github.com/sbharuka01/Portfolio/blob/main/Banner.png">
